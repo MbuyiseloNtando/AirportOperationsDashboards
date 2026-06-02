@@ -4,7 +4,7 @@ I recently developed an end-to-end Power BI solution to monitor and analyse airp
 
 📊 Project Overview
 
-* Built two interactive dashboards: Departures and Arrivals
+* Built two interactive dashboards: Departures ('Departures.jfif') and Arrivals ('arrivals.png')
 * Data sourced from tower logs (2021 – March 2026) via DirectQuery
 * Directly imported airports information created on Transoft AirTOP simulation software.
 
